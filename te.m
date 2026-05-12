@@ -36,10 +36,11 @@ end
 N = 500000;  % 点数：越大越密，越慢
 Q = qlim(:,1)' + rand(N,6).*(qlim(:,2)'-qlim(:,1)');   % N×6
 P = zeros(N,3);
-
+-
++-----------+
 for k = 1:N
     T = getTransform(robot, Q(k,:), ee);
-    P(k,:) = tform2trvec(T);  % [x y z] m
+    P(k,:) = tform2trvec(T);  % [x y z] m  
 end
 
 %% 4) 可视化

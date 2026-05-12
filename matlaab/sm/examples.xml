@@ -1,0 +1,1416 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>FiveBarRobotExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex07587653</metadata>
+    <thumbnail>html/FiveBarRobotExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1711035074">FiveBar.slx</file>
+    <file component="sm" timestamp="1711719692">TopViewFiveBarRobot.png</file>
+    <dir component="sm" timestamp="1711719692">FiveBarRobotSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocConstrainPointToCurveExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex10268992</metadata>
+    <thumbnail>html/DocConstrainPointToCurveExample_01.gif</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1704298060">DocPocFlap.slx</file>
+    <file component="sm" timestamp="1704298060">DocPocFlapStart.slx</file>
+    <dir component="sm" timestamp="1704298060">DocConstrainPointToCurveSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CompoundBodyExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CompoundBodyExample.html</file>
+    <metadata>ex11538284</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1686926682">CompoundBody.slx</file>
+    <dir component="sm" timestamp="1678722131">CompoundBodySupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>PointCloudContactExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PointCloudContactExample.html</file>
+    <metadata>ex11865573</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1679905336">PointCloudContact.slx</file>
+    <dir component="sm" timestamp="1679048592">PointCloudContactSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>RunFKOnHumanoidRobotArmExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex13783268</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1688747529">ImportedURDF.slx</file>
+    <dir component="sm" timestamp="1702380800">ImportedURDFSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>FourPostTestrigExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FourPostTestrigExample.html</file>
+    <metadata>ex14270724</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1679904275">FourPostTestrig.slx</file>
+    <file component="sm" timestamp="1679043397">FourPostTestrigLibrary.slx</file>
+    <dir component="sm" timestamp="1679043398">FourPostTestrigSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ElectricalInterfaceExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ElectricalInterfaceExample.html</file>
+    <metadata>ex16191990</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1688649674">ElectricalInterface.slx</file>
+    <file component="sm" timestamp="1678551988">ElectricalInterfaceLibrary.slx</file>
+    <dir component="sm" timestamp="1688649674">ElectricalInterfaceSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CustomTireCombinedSlipInterfaceExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CustomTireCombinedSlipInterfaceExample.html</file>
+    <metadata>ex16929802</metadata>
+    <thumbnail>html/CustomTireCombinedSlipInterfaceExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>vdynblks</product>
+    <file component="sm" open="open" timestamp="1721399377">CustomTireCombinedSlipInterface.slx</file>
+    <file component="sm" timestamp="1721399377">CustomTireCombinedSlipInterfaceLibrary.slx</file>
+    <dir component="sm" timestamp="1721399377">CustomTireCombinedSlipInterfaceSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ImportedURDFExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ImportedURDFExample.html</file>
+    <metadata>ex22670980</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1686927820">ImportedURDF.slx</file>
+    <dir component="sm" timestamp="1678794219">ImportedURDFSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CrossSlideTableExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CrossSlideTableExample.html</file>
+    <metadata>ex22686305</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1686926328">CrossSlideTable.slx</file>
+    <file component="sm" timestamp="1677843937">CrossSlideTableLibrary.slx</file>
+    <dir component="sm" timestamp="1677843937">CrossSlideTableSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>SpatialContactForceBusExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SpatialContactForceBusExample.html</file>
+    <metadata>ex24285293</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1679473918">SpatialContactForceBus.slx</file>
+    <file component="sm" timestamp="1679473918">SpatialContactForceBusLibrary.slx</file>
+    <dir component="sm" timestamp="1678446261">SpatialContactForceBusSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CreateASimplePendulumInMATLABExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex26138233</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1730718528">simplePendulum.m</file>
+  </demoitem>
+  <demoitem>
+    <source>CableRobotExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CableRobotExample.html</file>
+    <metadata>ex27304319</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1680857936">CableRobot.slx</file>
+    <file component="sm" timestamp="1678545378">CableRobotLibrary.slx</file>
+    <dir component="sm" timestamp="1678824319">CableRobotSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DynamicCamerasExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DynamicCamerasExample.html</file>
+    <metadata>ex27353676</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1679470726">DynamicCameras.slx</file>
+    <file component="sm" timestamp="1679470726">DynamicCamerasLibrary.slx</file>
+    <dir component="sm" timestamp="1678382330">DynamicCamerasSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>PointOnCurveExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PointOnCurveExample.html</file>
+    <metadata>ex27748187</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1680510433">PointOnCurve.slx</file>
+    <file component="sm" timestamp="1679473030">PointOnCurveLibrary.slx</file>
+    <dir component="sm" timestamp="1690368080">PointOnCurveSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ModalReductionForFlexibleBodiesExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex27783816</metadata>
+    <thumbnail>html/ModalReductionForFlexibleBodiesExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1688035784">ModalReductionForFlexibleBodies.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>RigidTransformFrameTreeExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RigidTransformFrameTreeExample.html</file>
+    <metadata>ex28471817</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1686927422">RigidTransformFrameTree.slx</file>
+    <dir component="sm" timestamp="1679498208">RigidTransformFrameTreeSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>TranslationalInterfaceExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TranslationalInterfaceExample.html</file>
+    <metadata>ex28591960</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" timestamp="1677845052">TranslationalInterfaceLibrary.slx</file>
+    <file component="sm" timestamp="1688650122">TranslationalInterfaceExample.m</file>
+    <file component="sm" open="open" timestamp="1688650122">TranslationalInterface.slx</file>
+    <dir component="sm" timestamp="1688650122">TranslationalInterfaceSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocImportedURDFModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex28625223</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1688747529">ImportedURDF.slx</file>
+    <dir component="sm" timestamp="1689175426">ImportedURDFSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>RigidBodyClassCreateaSimpleLinkExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex31600270</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+  </demoitem>
+  <demoitem>
+    <source>VehicleSuspensionTemplatesExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/VehicleSuspensionTemplatesExample.html</file>
+    <metadata>ex32012126</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1686929045">VehicleSuspensionTemplates.slx</file>
+    <file component="sm" timestamp="1678185600">VehicleSuspensionTemplatesLibrary.slx</file>
+    <dir component="sm" timestamp="1678185601">VehicleSuspensionTemplatesSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>BevelGearConstraintExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BevelGearConstraintExample.html</file>
+    <metadata>ex34578183</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1679909652">BevelGearConstraint.slx</file>
+    <file component="sm" timestamp="1679909652">BevelGearConstraintLibrary.slx</file>
+    <dir component="sm" timestamp="1679477251">BevelGearConstraintSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocCentrifugalGovernorExample</source>
+    <type>model</type>
+    <extension>mlx</extension>
+    <metadata>ex34973966</metadata>
+    <thumbnail>html/DocCentrifugalGovernorExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1704972249">DocCentrifugalGovernorExample.slx</file>
+    <dir component="sm" timestamp="1705262604">DocCentrifugalGovernorSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>LandingGearExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/LandingGearExample.html</file>
+    <metadata>ex35051039</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" timestamp="1704295306">LandingGearLibrary.slx</file>
+    <file component="sm" open="open" timestamp="1704295306">LandingGear.slx</file>
+    <dir component="sm" timestamp="1704295306">LandingGearSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CreateARoboticGripperInMATLABExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex38462000</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <file component="sm" timestamp="1638897507">buildRobotGripper.m</file>
+    <file component="sm" timestamp="1638984224">robotGripper.m</file>
+  </demoitem>
+  <demoitem>
+    <source>ConstantVelocityJointExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ConstantVelocityJointExample.html</file>
+    <metadata>ex38484409</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1680261546">ConstantVelocityJoint.slx</file>
+    <dir component="sm" timestamp="1678897145">ConstantVelocityJointSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ImportedFourBarExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ImportedFourBarExample.html</file>
+    <metadata>ex38838644</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1677854463">ImportedFourBar.slx</file>
+    <file component="sm" timestamp="1677854463">ImportedFourBarExample.m</file>
+    <dir component="sm" timestamp="1677854463">ImportedFourBarSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocLBeamInertiaExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DocLBeamInertiaExample.html</file>
+    <metadata>ex38983899</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1679045493">DocLBeamInertia.slx</file>
+    <dir component="sm" timestamp="1679045493">DocLBeamInertiaSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ModelingAndControlOfAMarsRoverExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex40303951</metadata>
+    <thumbnail>data/sm_mars_rover_thumbnail.PNG</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1678360978">sm_mars_rover.slx</file>
+    <file component="sm" timestamp="1641235499">sm_mars_rover_arm_ik.m</file>
+    <file component="sm" timestamp="1641235499">sm_mars_rover_params.m</file>
+    <file component="sm" timestamp="1641235499">sm_mars_rover_plot_arm_path.m</file>
+    <file component="sm" timestamp="1641235499">sm_mars_rover_plot_rover_path.m</file>
+    <file component="sm" timestamp="1630668825">sm_mars_rover_thumbnail.PNG</file>
+    <file component="sm" timestamp="1641235499">rover_path_select.m</file>
+    <dir component="sm" timestamp="1704356648">sm_mars_rover_data</dir>
+  </demoitem>
+  <demoitem>
+    <source>VisualizeFKDoublePendulumExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex40468229</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1689071307">DoublePendulum.slx</file>
+    <dir component="sm" timestamp="1702378896">DoublePendulumSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocCompoundLinkExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DocCompoundLinkExample.html</file>
+    <metadata>ex41262723</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1678979545">DocCompoundLink.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>DocFlexibleCantileverChannelBeamExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43145097</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1721043953">DocFlexibleCantileverChannelBeam.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>MobileRobotBuilderAppExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43221276</metadata>
+    <thumbnail>html/MobileRobotBuilderAppExample_02.gif</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1639660585">buildMobileRobotApp.mlapp</file>
+    <file component="sm" timestamp="1638896527">buildMobileRobot.m</file>
+    <file component="sm" timestamp="1730728453">createMobileRobotChassis.m</file>
+    <file component="sm" timestamp="1730728453">createOmniDirectionalWheel.m</file>
+    <file component="sm" timestamp="1730728453">createRobotArm.m</file>
+    <file component="sm" timestamp="1730728453">makeMobileRobot.m</file>
+    <file component="sm" timestamp="1638896527">mobileRobotIcon.JPG</file>
+  </demoitem>
+  <demoitem>
+    <source>DoubleWishboneExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DoubleWishboneExample.html</file>
+    <metadata>ex45890625</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1678107107">DoubleWishbone.slx</file>
+    <file component="sm" timestamp="1678107107">DoubleWishboneExample.m</file>
+    <file component="sm" timestamp="1678107107">DoubleWishboneLibrary.slx</file>
+    <dir component="sm" timestamp="1678107107">DoubleWishboneSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>Cartesian3DPrinterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/Cartesian3DPrinterExample.html</file>
+    <metadata>ex45981230</metadata>
+    <thumbnail>data/Printer_mask.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1591966465">Bar.png</file>
+    <file component="sm" timestamp="1591966465">Base.png</file>
+    <file component="sm" timestamp="1591966465">Base_Assembly.png</file>
+    <file component="sm" timestamp="1591966465">Bracket.STEP</file>
+    <file component="sm" timestamp="1591966465">DoubleScrewTable.png</file>
+    <file component="sm" timestamp="1591966465">Gantry.STEP</file>
+    <file component="sm" timestamp="1591966465">Gantry.png</file>
+    <file component="sm" timestamp="1591966465">Gantry_Assembly.png</file>
+    <file component="sm" timestamp="1591966465">Guide_Rail_x.STEP</file>
+    <file component="sm" timestamp="1591966465">Guide_Rail_y.STEP</file>
+    <file component="sm" timestamp="1591966465">Guide_Rail_z.STEP</file>
+    <file component="sm" timestamp="1591966465">Motion.png</file>
+    <file component="sm" timestamp="1591966465">Motor.STEP</file>
+    <file component="sm" timestamp="1591966465">Mount.png</file>
+    <file component="sm" timestamp="1592335923">Printer.gif</file>
+    <file component="sm" timestamp="1591966465">Printing_Base.STEP</file>
+    <file component="sm" timestamp="1591966465">Printing_Base.png</file>
+    <file component="sm" timestamp="1591966465">Printing_Bed.STEP</file>
+    <file component="sm" timestamp="1591966465">Printing_Head.png</file>
+    <file component="sm" timestamp="1591966465">Printing_Head_Assembly.png</file>
+    <file component="sm" timestamp="1591966465">Printing_head.STEP</file>
+    <file component="sm" timestamp="1591966465">Rotation.mat</file>
+    <file component="sm" timestamp="1591966465">SM_table.STEP</file>
+    <file component="sm" timestamp="1591966465">Screw.png</file>
+    <file component="sm" timestamp="1591966465">Screw_x.STEP</file>
+    <file component="sm" timestamp="1591966465">Screw_y.STEP</file>
+    <file component="sm" timestamp="1591966465">Sliding_Block.STEP</file>
+    <file component="sm" timestamp="1591966465">Sliding_Block.png</file>
+    <file component="sm" timestamp="1591966465">Stepper_Motor.png</file>
+    <file component="sm" timestamp="1591966465">screw_z.STEP</file>
+    <file component="sm" open="open" timestamp="1615213310">sm_3d_printer.slx</file>
+    <file component="sm" timestamp="1591966465">sm_3d_printer_parameters.m</file>
+    <file component="sm" timestamp="1591966465">sm_3d_printer_plotdata.m</file>
+    <file component="sm" timestamp="1592588410">Printer_mask.png</file>
+  </demoitem>
+  <demoitem>
+    <source>BlockAndTackleExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BlockAndTackleExample.html</file>
+    <metadata>ex46744656</metadata>
+    <thumbnail>html/BlockAndTackleExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1686925853">BlockAndTackle.slx</file>
+    <dir component="sm" timestamp="1678827450">BlockAndTackleSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>RatchetLifterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RatchetLifterExample.html</file>
+    <metadata>ex47563762</metadata>
+    <thumbnail>data/ratchet_lifter.png</thumbnail>
+    <sandboxPublished/>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <file component="sm" timestamp="1593115696">Neg_Climber.png</file>
+    <file component="sm" timestamp="1593115696">Neg_Horiz_Cylinders.png</file>
+    <file component="sm" timestamp="1593115696">Neg_Slant_Cylinders.png</file>
+    <file component="sm" timestamp="1593115696">Pos_Climber.png</file>
+    <file component="sm" timestamp="1593115696">Pos_Horiz_Cylinders.png</file>
+    <file component="sm" timestamp="1593115696">Pos_Slant_Cylinders.png</file>
+    <file component="sm" timestamp="1593115696">Toothed_Rack.png</file>
+    <file component="sm" timestamp="1593115696">Traveler.png</file>
+    <file component="sm" timestamp="1593115696">ratchet_lifter.png</file>
+    <file component="sm" open="open" timestamp="1615213679">sm_ratchet_lifter.slx</file>
+    <file component="sm" timestamp="1594151484">sm_ratchet_lifter_parameters.m</file>
+    <file component="sm" timestamp="1600247548">sm_ratchet_lifter_plot.m</file>
+    <file component="sm" timestamp="1593116758">ratchet_lifter_contact_proxies.png</file>
+    <file component="sm" timestamp="1601565087">lifter.gif</file>
+  </demoitem>
+  <demoitem>
+    <source>SelfLockingWormAndGearConstraintExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SelfLockingWormAndGearConstraintExample.html</file>
+    <metadata>ex49928333</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1678975483">SelfLockingWormAndGearConstraint.slx</file>
+    <file component="sm" timestamp="1678262208">SelfLockingWormAndGearConstraintLibrary.slx</file>
+    <dir component="sm" timestamp="1678262208">SelfLockingWormAndGearConstraintSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ComputeRotationSequenceAnglesForARotationObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex50137136</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+  </demoitem>
+  <demoitem>
+    <source>DocGearModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52210474</metadata>
+    <thumbnail>html/DocGearModelExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1704905763">DocBevelGear.slx</file>
+    <file component="sm" timestamp="1704905763">DocBevelGearStart.slx</file>
+    <file component="sm" timestamp="1704905763">DocCommonGearExternal.slx</file>
+    <file component="sm" timestamp="1704905763">DocCommonGearExternalStart.slx</file>
+    <file component="sm" timestamp="1704905763">DocCommonGearInternal.slx</file>
+    <file component="sm" timestamp="1704905763">DocCommonGearInternalStart.slx</file>
+    <file component="sm" timestamp="1704905763">DocRackAndPinion.slx</file>
+    <file component="sm" timestamp="1704905763">DocRackAndPinionStart.slx</file>
+    <file component="sm" timestamp="1704905763">DocWormAndGear.slx</file>
+    <file component="sm" timestamp="1704905763">DocWormAndGearStart.slx</file>
+    <dir component="sm" timestamp="1704905763">DocGearModelSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CreateModelAnimationVideoExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52308536</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1679910163">HydraulicInterface.slx</file>
+    <file component="sm" timestamp="1679910163">HydraulicInterfaceLibrary.slx</file>
+    <dir component="sm" timestamp="1688993163">HydraulicInterfaceSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>RackAndPinionExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RackAndPinionExample.html</file>
+    <metadata>ex53586556</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1678496120">RackAndPinion.slx</file>
+    <file component="sm" timestamp="1678496120">RackAndPinionLibrary.slx</file>
+    <dir component="sm" timestamp="1678541456">RackAndPinionSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>GenerateTheROMDataForAFlexibleDipperExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex54225903</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <dir component="sm" timestamp="1721390696">ReducedOrderFlexibleSolidSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>SpaceManipulatorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SpaceManipulatorExample.html</file>
+    <metadata>ex57862726</metadata>
+    <thumbnail>html/SpaceManipulatorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1679910731">SpaceManipulator.slx</file>
+    <dir component="sm" timestamp="1678984466">SpaceManipulatorSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>BackhoeExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/BackhoeExample.html</file>
+    <metadata>ex58130784</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1677860311">Backhoe.slx</file>
+    <file component="sm" timestamp="1677860311">BackhoeLibrary.slx</file>
+    <dir component="sm" timestamp="1677860311">BackhoeSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>VariableModeJointRecirculationExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/VariableModeJointRecirculationExample.html</file>
+    <metadata>ex58840033</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1679905930">VariableModeJointRecirculation.slx</file>
+    <file component="sm" timestamp="1678788016">VariableModeJointRecirculationExample.m</file>
+    <file component="sm" timestamp="1678788016">VariableModeJointRecirculationLibrary.slx</file>
+    <dir component="sm" timestamp="1678788016">VariableModeJointRecirculationSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ReducedOrderFlexibleSolidExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ReducedOrderFlexibleSolidExample.html</file>
+    <metadata>ex59093856</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1685707174">ReducedOrderFlexibleSolid.slx</file>
+    <dir component="sm" timestamp="1678811898">ReducedOrderFlexibleSolidSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ExternalCommonGearExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ExternalCommonGearExample.html</file>
+    <metadata>ex59113905</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1678121943">ExternalCommonGear.slx</file>
+    <file component="sm" timestamp="1678121943">ExternalCommonGearLibrary.slx</file>
+    <dir component="sm" timestamp="1678121943">ExternalCommonGearSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>InvertedDoublePendulumExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/InvertedDoublePendulumExample.html</file>
+    <metadata>ex59230826</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1704296635">InvertedDoublePendulum.slx</file>
+    <dir component="sm" timestamp="1704296635">InvertedDoublePendulumSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocFourBarLinkageModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DocFourBarLinkageModelExample.html</file>
+    <metadata>ex59662246</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1680631807">DocFourBarLinkage.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>DocImportGearSTEPExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59849236</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <dir component="sm" timestamp="1721038515">DocImportGearSTEPSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>VideoFlappingWingModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex60005807</metadata>
+    <thumbnail>html/VideoFlappingWingModelExample_01.gif</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1680510433">PointOnCurve.slx</file>
+    <file component="sm" timestamp="1679473030">PointOnCurveLibrary.slx</file>
+    <dir component="sm" timestamp="1704352036">PointOnCurveSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocFlexibleCantileverChannelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DocFlexibleCantileverChannelExample.html</file>
+    <metadata>ex60466969</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1678976829">DocFlexibleCantileverChannel.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>FourBarExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/FourBarExample.html</file>
+    <metadata>ex60499238</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1678897528">FourBar.slx</file>
+    <dir component="sm" timestamp="1678897528">FourBarSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>RigidBodyClassAddFrameandComponentExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex61122316</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+  </demoitem>
+  <demoitem>
+    <source>ImportedRobotArmExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ImportedRobotArmExample.html</file>
+    <metadata>ex61418466</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1678893580">ImportedRobotArm.slx</file>
+    <dir component="sm" timestamp="1690365700">ImportedRobotArmSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CreateAFourBarMechanismInMATLABExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex61544159</metadata>
+    <thumbnail>data/fourBarMultibody.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1638984631">fourBar.m</file>
+    <file component="sm" timestamp="1634769524">fourBarMotionPlot.m</file>
+    <file component="sm" timestamp="1704802482">fourBarMultibody.png</file>
+  </demoitem>
+  <demoitem>
+    <source>SinglePendulumSimulinkComparisonExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SinglePendulumSimulinkComparisonExample.html</file>
+    <metadata>ex61607710</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1679386978">SinglePendulumSimulinkComparison.slx</file>
+    <dir component="sm" timestamp="1678175195">SinglePendulumSimulinkComparisonSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>InverseDynamicsExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/InverseDynamicsExample.html</file>
+    <metadata>ex62659622</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1678897925">InverseDynamics.slx</file>
+    <file component="sm" timestamp="1678897925">InverseDynamicsLibrary.slx</file>
+    <dir component="sm" timestamp="1678897925">InverseDynamicsSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocImportCADModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63852232</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+  </demoitem>
+  <demoitem>
+    <source>SpecifyTheReducedOrderFlexibleSolidBlockWithROMDataExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63951871</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+  </demoitem>
+  <demoitem>
+    <source>VariableModeJointContactExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/VariableModeJointContactExample.html</file>
+    <metadata>ex66320346</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1682959359">VariableModeJointContact.slx</file>
+    <file component="sm" timestamp="1711012781">VariableModeJointContactExample.m</file>
+    <dir component="sm" timestamp="1711013562">VariableModeJointContactSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DoublePendulumSimulinkComparisonExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DoublePendulumSimulinkComparisonExample.html</file>
+    <metadata>ex66616135</metadata>
+    <thumbnail>html/DoublePendulumSimulinkComparisonExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1679036650">DoublePendulumSimulinkComparison.slx</file>
+    <dir component="sm" timestamp="1678458028">DoublePendulumSimulinkComparisonSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DoublePendulumExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DoublePendulumExample.html</file>
+    <metadata>ex67010343</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1685980067">DoublePendulum.slx</file>
+    <dir component="sm" timestamp="1678708940">DoublePendulumSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>HeaveRollCarExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HeaveRollCarExample.html</file>
+    <metadata>ex67258190</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1679325695">HeaveRollCar.slx</file>
+    <file component="sm" timestamp="1677055699">HeaveRollCarLibrary.slx</file>
+    <dir component="sm" timestamp="1698389415">HeaveRollCarSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>PickAndPlaceRobotExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/PickAndPlaceRobotExample.html</file>
+    <metadata>ex67924550</metadata>
+    <thumbnail>html/PickAndPlaceRobotExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1679480083">PickAndPlaceRobot.slx</file>
+    <file component="sm" timestamp="1679472694">PickAndPlaceRobotLibrary.slx</file>
+    <dir component="sm" timestamp="1678721442">PickAndPlaceRobotSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>QuadcopterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/QuadcopterExample.html</file>
+    <metadata>ex68751535</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1683650678">Quadcopter.slx</file>
+    <file component="sm" timestamp="1678892524">QuadcopterExample.m</file>
+    <dir component="sm" timestamp="1678092200">QuadcopterSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>RotationClassMatrixfor3DRotationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex69308789</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+  </demoitem>
+  <demoitem>
+    <source>ForkliftExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ForkliftExample.html</file>
+    <metadata>ex69570751</metadata>
+    <thumbnail>html/ForkliftExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1692874388">Forklift.slx</file>
+    <dir component="sm" timestamp="1692874388">ForkliftSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>TowerCraneExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/TowerCraneExample.html</file>
+    <metadata>ex69903313</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1681912272">TowerCrane.slx</file>
+    <dir component="sm" timestamp="1690367942">TowerCraneSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>UsingOPForMultibodyModelInitializationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex69913242</metadata>
+    <thumbnail>html/UsingOPForMultibodyModelInitializationExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <file component="sm" timestamp="1718616249">DocCantileverBeam.slx</file>
+    <file component="sm" timestamp="1718742451">DocFourBar.slx</file>
+    <dir component="sm" timestamp="1719243361">UsingOPForMultibodyModelInitializationSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>LeadScrewJointWithFrictionExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/LeadScrewJointWithFrictionExample.html</file>
+    <metadata>ex69952233</metadata>
+    <thumbnail>html/LeadScrewJointWithFrictionExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1679904820">LeadScrewJointWithFriction.slx</file>
+    <dir component="sm" timestamp="1679060910">LeadScrewJointWithFrictionSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>LeadScrewJointExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/LeadScrewJointExample.html</file>
+    <metadata>ex72230213</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1677831693">LeadScrewJoint.slx</file>
+    <file component="sm" timestamp="1678870450">LeadScrewJointLibrary.slx</file>
+    <dir component="sm" timestamp="1677831693">LeadScrewJointSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>InternalCommonGearExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/InternalCommonGearExample.html</file>
+    <metadata>ex74037128</metadata>
+    <thumbnail>html/InternalCommonGearExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1679477401">InternalCommonGear.slx</file>
+    <file component="sm" timestamp="1678208260">InternalCommonGearLibrary.slx</file>
+    <dir component="sm" timestamp="1678208260">InternalCommonGearSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ImportedStewartPlatformExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ImportedStewartPlatformExample.html</file>
+    <metadata>ex75144093</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1678808278">ImportedStewartPlatform.slx</file>
+    <dir component="sm" timestamp="1678808278">ImportedStewartPlatformSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>STLTemplateFileForTestingExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex75989585</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <file component="sm" timestamp="1673522638">stl_template_foremtesting.stl</file>
+  </demoitem>
+  <demoitem>
+    <source>RightAngleDriveExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RightAngleDriveExample.html</file>
+    <metadata>ex77206678</metadata>
+    <thumbnail>html/RightAngleDriveExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1679323728">RightAngleDrive.slx</file>
+    <dir component="sm" timestamp="1678791186">RightAngleDriveSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocPulleysExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex77656314</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1704296008">DocBeltDriveCrossed.slx</file>
+    <file component="sm" timestamp="1704296008">DocBeltDriveOpen.slx</file>
+    <dir component="sm" timestamp="1704296008">DocPulleysSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocPlanetaryGearExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex77976453</metadata>
+    <thumbnail>html/DocPlanetaryGearExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1680015569">DocPlanetaryGearA.slx</file>
+    <file component="sm" timestamp="1680015569">DocPlanetaryGearB.slx</file>
+    <file component="sm" timestamp="1680015569">DocPlanetaryGearC.slx</file>
+    <file component="sm" timestamp="1680015569">DocPlanetaryGearD.slx</file>
+    <file component="sm" timestamp="1680015569">DocPlanetaryGearE.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>MultibodyClassCreateaDoublePendulumExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex78171900</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+  </demoitem>
+  <demoitem>
+    <source>StewartPlatformExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/StewartPlatformExample.html</file>
+    <metadata>ex78614525</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1704271058">StewartPlatform.slx</file>
+    <file component="sm" timestamp="1678223791">StewartPlatformLibrary.slx</file>
+    <dir component="sm" timestamp="1704271058">StewartPlatformSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>MEXDoublePendulumExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex79123707</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1689071307">DoublePendulum.slx</file>
+    <dir component="sm" timestamp="1711633486">DoublePendulumSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>SimpleBodyExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/SimpleBodyExample.html</file>
+    <metadata>ex79316280</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1678706131">SimpleBody.slx</file>
+    <dir component="sm" timestamp="1678706131">SimpleBodySupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CarouselExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CarouselExample.html</file>
+    <metadata>ex79445364</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1678275125">Carousel.slx</file>
+    <file component="sm" timestamp="1678275125">CarouselLibrary.slx</file>
+    <dir component="sm" timestamp="1678275125">CarouselSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CompositeForcesAndTorquesExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/CompositeForcesAndTorquesExample.html</file>
+    <metadata>ex81063157</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1678897347">CompositeForcesAndTorques.slx</file>
+    <dir component="sm" timestamp="1678897347">CompositeForcesAndTorquesSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>RunIKOnHumanoidRobotArmExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex82672625</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1688747529">ImportedURDF.slx</file>
+    <dir component="sm" timestamp="1702381453">ImportedURDFSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocGravitationalFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex85522952</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <file component="sm" timestamp="1720038347">DocGravitationalField.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>WormAndGearConstraintExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WormAndGearConstraintExample.html</file>
+    <metadata>ex87107713</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" open="open" timestamp="1679414572">WormAndGearConstraint.slx</file>
+    <file component="sm" timestamp="1679414572">WormAndGearConstraintLibrary.slx</file>
+    <dir component="sm" timestamp="1678783863">WormAndGearConstraintSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocRackPinionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex87830165</metadata>
+    <thumbnail>html/DocRackPinionExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1680014627">DocRackPinion.slx</file>
+    <dir component="sm" timestamp="1680014627">DocRackPinionSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>HowToBuildAMultibodyInMATLABExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex87957229</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1639153621">dcrank_aiming_mechanism_v1.m</file>
+    <file component="sm" timestamp="1639153621">dcrank_aiming_mechanism_v2.m</file>
+    <file component="sm" timestamp="1639153621">dcrankaim_addBrackets.m</file>
+    <file component="sm" timestamp="1638970028">dcrankaim_approx_body_A.m</file>
+    <file component="sm" timestamp="1638970028">dcrankaim_approx_body_B.m</file>
+    <file component="sm" timestamp="1638970028">dcrankaim_approx_body_C.m</file>
+    <file component="sm" timestamp="1638970028">dcrankaim_approx_body_C_assembly_failure.m</file>
+    <file component="sm" timestamp="1638970028">dcrankaim_approx_body_D.m</file>
+    <file component="sm" timestamp="1639153621">dcrankaim_assembly_failure.m</file>
+    <file component="sm" timestamp="1638970028">dcrankaim_detailed_body_A.m</file>
+  </demoitem>
+  <demoitem>
+    <source>HydraulicInterfaceExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HydraulicInterfaceExample.html</file>
+    <metadata>ex90731484</metadata>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <file component="sm" open="open" timestamp="1679910163">HydraulicInterface.slx</file>
+    <file component="sm" timestamp="1679910163">HydraulicInterfaceLibrary.slx</file>
+    <dir component="sm" timestamp="1679503664">HydraulicInterfaceSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>DocDoublePendulumModelExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/DocDoublePendulumModelExample.html</file>
+    <metadata>ex91128844</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1680016385">DocCompoundRigidBodiesLibrary.slx</file>
+    <file component="sm" open="open" timestamp="1680016385">DocDoublePendulum.slx</file>
+  </demoitem>
+  <demoitem>
+    <source>RatchetPawlExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/RatchetPawlExample.html</file>
+    <metadata>ex91367327</metadata>
+    <thumbnail>html/RatchetPawlExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1699869743">RatchetPawl.slx</file>
+    <file component="sm" timestamp="1699869743">RatchetPawlExample.m</file>
+    <file component="sm" timestamp="1699869743">RatchetPawlLibrary.slx</file>
+    <dir component="sm" timestamp="1699869743">RatchetPawlSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ExcavatorDipperArmAsFlexibleBodyExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex95712641</metadata>
+    <thumbnail>html/ExcavatorDipperArmAsFlexibleBodyExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>pde</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <dir component="sm" timestamp="1689334203">ExcavatorDipperArmAsFlexibleBodySupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>CreateAMultibodyWithAllJointsInMATLABExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex95808861</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1638970872">addJoint.m</file>
+    <file component="sm" timestamp="1638970872">jointZoo.m</file>
+    <file component="sm" timestamp="1638970872">randomOpPoint.m</file>
+  </demoitem>
+  <demoitem>
+    <source>ImportedCADModelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex97628366</metadata>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <dir component="sm" timestamp="1702379980">ImportedCADModelSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>HowToBuildAMultibodyInSimulinkExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98570534</metadata>
+    <thumbnail>html/HowToBuildAMultibodyInSimulinkExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>simscapemultibody</product>
+    <product>simscape</product>
+    <product>simulink</product>
+    <file component="sm" timestamp="1704905052">HowToBuildAMultibodyInSimulinkAssemblyWithError.slx</file>
+    <file component="sm" timestamp="1717511005">HowToBuildAMultibodyInSimulinkBodyAApproximate.slx</file>
+    <file component="sm" timestamp="1704905052">HowToBuildAMultibodyInSimulinkBodyAComplex.slx</file>
+    <file component="sm" timestamp="1704905052">HowToBuildAMultibodyInSimulinkBodyBApproximate.slx</file>
+    <file component="sm" timestamp="1704905052">HowToBuildAMultibodyInSimulinkBodyCApproximate.slx</file>
+    <file component="sm" timestamp="1704905052">HowToBuildAMultibodyInSimulinkPlant.slx</file>
+    <file component="sm" timestamp="1717511005">HowToBuildAMultibodyInSimulinkVersion1.slx</file>
+    <file component="sm" timestamp="1704905052">HowToBuildAMultibodyInSimulinkVersion2.slx</file>
+    <dir component="sm" timestamp="1717511005">HowToBuildAMultibodyInSimulinkSupport</dir>
+  </demoitem>
+  <demoitem>
+    <source>ElevatorExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/ElevatorExample.html</file>
+    <metadata>ex98659882</metadata>
+    <thumbnail>html/ElevatorExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>simscape</product>
+    <product>simscapemultibody</product>
+    <file component="sm" open="open" timestamp="1679392856">Elevator.slx</file>
+    <dir component="sm" timestamp="1690366166">ElevatorSupport</dir>
+  </demoitem>
+</demos>
